@@ -1,6 +1,6 @@
 ---
 title: "Joe Simeone"
-subtitle: "Data Analyst"
+subtitle: "Data Analyst | Doing My Best :)"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
 image: profile.jpg
 about: # https://quarto.org/docs/websites/website-about.html
@@ -18,8 +18,13 @@ A little bit about me and my life.
 
 ## Education
 
-University of XYZ, City \| Location \| Sept 20XX - June 20XX
+**University of Pittsburgh, Graduate School of Public & International Affairs**, Pittsburgh \| PA \| Aug 2018 - Apr 2020
+
+**West Chester University**, West Chester \| PA \| Aug 2011 - May 2015
+
 
 ## Experience
 
-Workplace \| Job title \| April 20XX - present
+**Drexel University, Dornsife School of Public Health** \| Senior Data Analyst, Heat Study \| Dec 2023 - present
+
+**Delaware Health & Human Services, Epidemiology Research Unit** \| Data Analyst, Overdose Data to Action \| Apr 2021 – Feb 2023

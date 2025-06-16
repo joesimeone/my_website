@@ -13,6 +13,7 @@ website:
 format:
   html:
     backgroundcolor: "#07294D"
+    linkcolor: "#4A9EFF"
     fontcolor: "#F9F6EE"
     theme: [cosmo, styles.scss]
 
